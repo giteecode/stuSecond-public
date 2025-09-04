@@ -11,7 +11,7 @@
 [https://www.bilibili.com/video/BV12a4y1w7EN/](https://www.bilibili.com/video/BV12a4y1w7EN/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/giteecode/allProject](https://github.com/giteecode/allProject)**
 
 ## 基于Springboot+vue的校园二手交易和交流论坛系统(源代码+数据库+2万字论文+开题+ppt)039
 
